@@ -7,25 +7,25 @@ assignees: ''
 
 ---
 
-**If the bug is related to PGM, report at the [PGM issues tracker](https://github.com/Electroid/PGM/issues).**
+# If the bug is related to PGM, report at the [PGM issues tracker](https://github.com/Electroid/PGM/issues).
 
-**Describe the bug**
+## Describe the bug
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+## To Reproduce
 Steps to reproduce the behavior:
 1. Do this
 2. Then that
 3. ???
 
-**Expected behavior**
+## Expected behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+## Screenshots
 If applicable, add screenshots to help explain your problem.
 
-**Client Information (please complete the following information):**
+## Client Information (please complete the following information)
  - **Minecraft Version**: 
 
-**Additional context**
+### Additional context
 Add any other context about the problem here.
