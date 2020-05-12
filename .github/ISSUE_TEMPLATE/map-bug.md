@@ -1,7 +1,7 @@
 ---
 name: Map Bug
 about: Found an issue with a map?
-title: ''
+title: '[MAP NAME] short description'
 labels: bug, maps
 assignees: ''
 
