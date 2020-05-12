@@ -1,6 +1,6 @@
 ---
 name: Map Bug
-about: Report any map bug
+about: Found an issue with a map?
 title: ''
 labels: bug, maps
 assignees: ''
