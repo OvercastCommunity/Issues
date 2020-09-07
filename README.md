@@ -10,4 +10,4 @@ Issues related to Map Bugs, Map Features and Server Issues can be [submitted](ht
 
 * To the best of your ability be concise about the issue you are specifying.
 * If unsure about a potential issue, do not hesitate to contact the Overcast Community through discord.
-* Do not create new issues that are related to general suggestions. This repository is for *specific, technical* bugs or *confirmed* features.
+* Be careful with creating new issues that are related to general suggestions. This repository is better for *specific, technical* bugs or *confirmed* features.
