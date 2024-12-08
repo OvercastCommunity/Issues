@@ -1,5 +1,5 @@
-Issues
-======
+# Issues
+
 This issue-tracking repository is for bugs associated with maps and server features related to the Overcast Community.
 
 ## Submitting
@@ -8,6 +8,6 @@ Issues related to Map Bugs, Map Features and Server Issues can be [submitted](ht
 
 ### General Guidelines:
 
-* To the best of your ability be concise about the issue you are specifying.
-* If unsure about a potential issue, do not hesitate to contact the Overcast Community through discord.
+* To the best of your ability, be concise about the issue you are specifying.
+* If unsure about a potential issue, do not hesitate to contact the [Overcast Community through Discord](https://oc.tc/discord).
 * Be careful with creating new issues that are related to general suggestions. This repository is better for *specific, technical* bugs or *confirmed* features.
